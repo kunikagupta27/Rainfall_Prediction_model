@@ -26,6 +26,10 @@ This section refers to manipulation — addition, deletion, combination, mutatio
 
 In this section I split the data into a training set and a testing set. The training set is used for training the model, and the testing set is used to test your model. This allows us to train your models on the training set, and then test their accuracy on the unseen testing set.
 
+**Models:**
+
+Lastly, trained the models to check which one is best suitable for the pediction.
+
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
